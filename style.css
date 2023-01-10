@@ -1,0 +1,20 @@
+html{
+        box-sizing: border-box;
+        height: 100%;
+    }
+    body{
+        text-align: center;
+        background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+    } 
+.titulo{
+    font-family: 'Maiden Orange';
+    font-size: 35px;
+}
+.resultado{
+    font-family: 'Sarpanch';
+    font-size: 17px;
+}
+.parrafo{
+    font-family: 'Farsan';
+    font-size: 16px;
+}
